@@ -61,6 +61,6 @@ Bên cạnh tư duy phân tích, mình cũng thích tự tay xây dựng các h�
 ## 📫 Liên hệ với mình
 
 - **Email:** lehonggam@124gmail.com
-- **LinkedIn:** linkedin.com/in/lehgam/
+- **LinkedIn:** https://www.linkedin.com/in/lehgam/
 
 ⭐️ *Cảm ơn bạn đã ghé thăm profile của mình!*
