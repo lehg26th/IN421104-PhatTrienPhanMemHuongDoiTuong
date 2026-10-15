@@ -71,6 +71,6 @@ Với nền tảng kỹ thuật lập trình vững chắc kết hợp tư duy p
 
 - **Email:** lehonggam124@gmail.com
 - **LinkedIn:** [linkedin.com/in/lehgam](https://www.linkedin.com/in/lehgam/)
-- **GitHub:** [github.com/gamlehong](https://github.com/gamlehong)
+- **GitHub:** [https://github.com/lehg26th/](https://github.com/lehg26th/)
 
 ⭐️ *Cảm ơn bạn đã ghé thăm trang cá nhân của mình!*
