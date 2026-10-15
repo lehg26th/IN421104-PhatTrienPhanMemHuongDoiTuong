@@ -4,7 +4,7 @@
 
 Chào mừng bạn đến với GitHub của mình! Mình là sinh viên chuyên ngành Kỹ thuật Phần mềm tại Đại học Đồng Tháp. Định hướng trọng tâm của mình là **Đảm bảo chất lượng phần mềm (Quality Assurance & Software Testing)**.
 
-Với nền tảng kỹ thuật lập trình vững chắc kết hợp tư duy phân tích yêu cầu logic, mình tập trung vào việc thiết kế kế hoạch kiểm thử bài bản, tối ưu độ phủ ca kiểm thử (Test Coverage), phát hiện sớm các lỗi nghiệp vụ và xây dựng các kịch bản kiểm thử tự động (Automation Test) nhằm bảo đảm phần mềm vận hành ổn định, chính xác nhất.
+Với nền tảng trực tiếp tham gia lập trình và xây dựng các hệ thống từ Backend đến Frontend, mình có lợi thế lớn trong việc đọc hiểu source code, nắm bắt kiến trúc hệ thống, phát hiện sớm các lỗi tiềm ẩn (code-level bugs) và xây dựng các kịch bản kiểm thử (Manual & Automation) bám sát logic nghiệp vụ.
 
 ---
 
@@ -13,72 +13,76 @@ Với nền tảng kỹ thuật lập trình vững chắc kết hợp tư duy p
 - 🎓 **Học vấn:** Sinh viên chuyên ngành Kỹ thuật Phần mềm — Đạt học bổng Khuyến khích học tập.
 - 🎯 **Mục tiêu nghề nghiệp:** Manual QA / Automation Tester Intern & Fresher.
 - 🔍 **Đang trau dồi:** Test Automation frameworks, Performance/API Testing (Postman), quy trình CI/CD tích hợp kiểm thử, và Tiếng Anh chuyên ngành.
-- 💬 **Hỏi mình về:** Lập Test Plan, thiết kế Test Cases, Functional Testing, Automation Testing với Python (Pytest), kiểm thử hộp trắng (White-box Coverage), phân tích tài liệu đặc tả (SRS/PRD), SQL cho kiểm thử cơ sở dữ liệu.
+- 💬 **Hỏi mình về:** Lập Test Plan, thiết kế Test Cases, Automation Testing với Python (Pytest), kiểm thử hộp trắng (White-box Testing), SQL cho kiểm thử cơ sở dữ liệu, C# .NET, Java, và kiến trúc hệ thống (MVC, 3-Tier).
 - ⚡ **Phương châm làm việc:** Chất lượng không phải là một hành động kiểm tra ở bước cuối, mà là một quy trình cần được xây dựng xuyên suốt vòng đời sản phẩm.
 
 ---
 
-## 🛠️ Kỹ năng & Công cụ Kiểm thử
+## 🛠️ Kỹ năng & Công cụ
 
 **Kiểm thử phần mềm (Testing Core):**
-> Test Planning, Test Case Design, Functional & Non-Functional Testing, Black-box & White-box Testing, Branch/Decision Coverage, Cyclomatic Complexity Analysis, Regression Testing, Bug Reporting & Tracking.
+> Test Planning, Test Case Design, Functional & Non-Functional Testing, Black-box & White-box Testing, Branch/Decision Coverage, Regression Testing, Bug Reporting & Tracking.
 
-**Test Automation & Công cụ:**
+**Test Automation & Scripting:**
 > Python, Pytest, unittest, pytest-mock, pytest-cov (Coverage report), Automated Scripts (Data validation, GUI automation).
 
-**Database & API Validation:**
-> Viết truy vấn SQL phức tạp để kiểm tra tính toàn vẹn dữ liệu (Data Integrity Testing) trên SQL Server, MySQL; Phân tích API endpoints.
+**Lập trình & Phát triển ứng dụng (Development):**
+> Python (PyQt6/PySide6, GUI Apps), C#, Java, C++, HTML/CSS, JavaScript, PHP, Windows Forms. Nắm vững kiến trúc MVC, Mô hình 3 lớp (3-Tier), OOP.
 
-**Tư duy kỹ thuật & Nền tảng lập trình:**
-> C#, Java, Python, C++, HTML/CSS, JavaScript. Nắm rõ kiến trúc hệ thống (MVC, 3-Tier), mô hình luồng dữ liệu và thiết kế ca kiểm thử bám sát logic code.
+**Cơ sở dữ liệu & Data Validation:**
+> SQL Server, MySQL, SQLite, Entity Framework, JDBC. Viết truy vấn SQL phức tạp phục vụ cả phát triển tính năng lẫn kiểm tra tính toàn vẹn dữ liệu (Data Integrity).
 
 **Quản lý & Hợp tác:**
-> Git/GitHub, Agile/Scrum, LaTeX (Báo cáo kỹ thuật), Draw.io (Phân tích luồng nghiệp vụ/Use Case), Figma (Kiểm thử UI/UX theo Design Specs).
+> Git/GitHub, Agile/Scrum, LaTeX (Báo cáo kỹ thuật), Draw.io (UML/Use Case), Figma (UI/UX).
 
 ---
 
-## 🚀 Dự án Kiểm thử & Đảm bảo Chất lượng
+## 🚀 Dự án tiêu biểu
 
 ### 1. MiniShop - Software Testing & Test Automation Project
-- **Vai trò:** QA / Tester (Core Contributor)
-- **Hoạt động thực hiện:**
-  - Phân tích yêu cầu nghiệp vụ từ tài liệu PRD để xác định phạm vi kiểm thử (Scope of Testing).
+- **Vai trò:** QA / Tester (Chuyên trách kiểm thử)
+- **Công việc thực hiện:**
   - Soạn thảo **Test Plan**, thiết kế bộ **Test Cases** chi tiết bao gồm kịch bản luồng chính (Happy Path), luồng phụ và ca kiểm thử biên (Boundary Value Analysis / Equivalence Partitioning).
-  - Phát triển kịch bản kiểm thử tự động (**Automation Test Scripts**) sử dụng Python (`pytest`, `unittest`, `pytest-mock`).
-  - Đánh giá độ phủ mã nguồn (Branch Coverage, Statement Coverage) và lập báo cáo kết quả kiểm thử (Test Summary Report).
+  - Phát triển kịch bản kiểm thử tự động (**Automation Test Scripts**) bằng Python (`pytest`, `unittest`, `pytest-mock`).
+  - Phân tích và đo lường độ phủ mã nguồn (Branch Coverage, Statement Coverage) và lập báo cáo kết quả kiểm thử.
 
-### 2. QL_CuaHangBanThuocTruSau (Hệ thống Quản lý Bán Thuốc trừ sâu)
-- **Vai trò:** QA / Tester & Developer (C# .NET / Windows Forms)
-- **Hoạt động thực hiện:**
-  - **Kiểm thử Nghiệp vụ & Chức năng (Functional Testing):** Thiết kế kịch bản kiểm thử cho các luồng quản lý danh mục sản phẩm, tính hạn sử dụng thuốc, quản lý xuất - nhập kho và tính toán hóa đơn bán lẻ.
-  - **Kiểm thử Cơ sở dữ liệu (Database Testing):** Viết truy vấn SQL (SQL Server) kiểm tra tính nhất quán và toàn vẹn dữ liệu (Data Integrity) giữa tầng ORM (Entity Framework) và cơ sở dữ liệu vật lý; kiểm tra ràng buộc khóa ngoại và cập nhật số lượng tồn kho sau mỗi giao dịch.
-  - **Kiểm thử Ngoại lệ & Dữ liệu biên (Exception & Boundary Testing):** Kiểm tra các trường hợp nhập sai định dạng, số lượng âm, vượt quá tồn kho thực tế và kiểm tra khả năng xử lý lỗi ngoại lệ trên tầng Business Logic Layer (mô hình 3 lớp).
+### 2. SuperMarket - Ứng dụng Quản lý Bán hàng Siêu thị
+- **Vai trò:** Developer (Lập trình chức năng)
+- **Công nghệ:** Python, Desktop GUI (PyQt6 / Tkinter), Database (MySQL / SQLite), OOP.
+- **Công việc thực hiện:**
+  - Lập trình toàn bộ ứng dụng bằng Python: Xây dựng giao diện Desktop, xử lý logic quản lý danh mục hàng hóa, quản lý kho, lập và xuất hóa đơn bán lẻ.
+  - Tối ưu hóa xử lý sự kiện giao diện (UI Event Handling), bắt lỗi và validate dữ liệu đầu vào trực tiếp bằng Python nhằm tránh crash ứng dụng khi nhập sai kiểu dữ liệu.
+  - Tự viết các hàm kiểm thử đơn vị (Unit Test) cho logic tính toán tổng tiền, chiết khấu và kiểm tra số lượng hàng tồn trước khi thanh toán.
 
-### 3. SuperManager - Desktop Management Application
-- **Vai trò:** QA / Tester & System Developer
-- **Hoạt động thực hiện:**
-  - **Kiểm thử Giao diện (GUI Testing):** Đối soát các trường nhập liệu, nút chức năng, độ phản hồi và tính trực quan của giao diện người dùng dựa trên quy chuẩn thiết kế.
-  - **Phân tích Ca kiểm thử (Test Case Design):** Áp dụng kỹ thuật phân vùng tương đương (Equivalence Partitioning) và phân tích giá trị biên (BVA) để xây dựng bộ test case bao phủ toàn bộ các chức năng CRUD (Thêm, Sửa, Xóa, Tra cứu).
-  - **Kiểm thử Hồi quy (Regression Testing):** Thực hiện kiểm thử hồi quy sau mỗi lần fix bug hoặc tối ưu mã nguồn để đảm bảo các tính năng cũ không bị ảnh hưởng.
+### 3. QL_CuaHangBanThuocTruSau (Hệ thống Quản lý Bán Thuốc trừ sâu)
+- **Vai trò:** Developer (Lập trình chính)
+- **Công nghệ:** C# .NET, Windows Forms, SQL Server, Entity Framework, Kiến trúc 3 lớp (3-Tier).
+- **Công việc thực hiện:**
+  - Lập trình các module nghiệp vụ: Quản lý danh mục sản phẩm, tính hạn sử dụng thuốc, xuất - nhập kho và tính toán hóa đơn bán lẻ.
+  - Thiết kế cơ sở dữ liệu quan hệ, viết Stored Procedures, Queries và ánh xạ dữ liệu qua ORM Entity Framework.
+  - Tự kiểm thử đơn vị cho tầng Business Logic và xử lý triệt để các trường hợp ngoại lệ nhập liệu (Exception Handling).
 
 ### 4. Hệ thống Quản lý Bán hàng Điện tử (Phong Vũ)
-- **Vai trò:** QA & Requirements Analyst / Project Lead
-- **Hoạt động thực hiện:**
-  - Soạn thảo tài liệu đặc tả yêu cầu phần mềm (**SRS**) và ma trận truy vết yêu cầu (**RTM - Requirements Traceability Matrix**).
-  - Thực hiện kiểm thử chấp nhận người dùng (UAT) và kiểm thử chức năng giao diện theo kịch bản Use Case.
-  - Phân tích rủi ro hệ thống, định nghĩa quy tắc nghiệp vụ (Business Rules) chặt chẽ giúp hạn chế phát sinh lỗi logic trong quá trình phát triển.
+- **Vai trò:** Project Lead / Developer & Requirements Analyst
+- **Công nghệ:** Desktop Application, SQL Server, Cấu trúc dữ liệu & Thuật toán.
+- **Công việc thực hiện:**
+  - Lập tài liệu đặc tả yêu cầu phần mềm (**SRS**), thiết kế mô hình Use Case, ERD và Wireframe.
+  - Tham gia code các module chức năng bán hàng và quản trị dữ liệu.
+  - Thực hiện kiểm thử tích hợp (Integration Testing) và kiểm tra chấp nhận người dùng (UAT) trước khi hoàn tất dự án.
 
-### 5. AgroFlow - Hệ thống IoT Quản lý Tưới tự động
-- **Vai trò:** Quality Assurance & System Verification
-- **Hoạt động thực hiện:**
-  - Tham gia thẩm định luồng logic giữa phần cứng (cảm biến, ESP32) và hệ thống Backend C# .NET.
-  - Thiết kế các kịch bản kiểm thử độ tin cậy và tính ổn định của dữ liệu cảm biến truyền về hệ thống điều khiển trung tâm.
+### 5. Kinetic GOATs Hotel - Web Quản lý Khách sạn
+- **Vai trò:** Developer (Backend & Database)
+- **Công nghệ:** Java, MVC Architecture, Servlet/JSP, SQL Server.
+- **Công việc thực hiện:**
+  - Xây dựng hệ thống đặt phòng, quản lý trạng thái phòng và phân quyền người dùng theo chuẩn mô hình MVC.
+  - Thiết kế và tối ưu các bảng dữ liệu, ràng buộc khóa ngoại để đảm bảo tính nhất quán dữ liệu khi phát sinh giao dịch đồng thời.
 
-### 6. Kinetic GOATs Hotel (Dự án thực hành Web App)
-- **Vai trò:** Database & Functional QA
-- **Hoạt động thực hiện:**
-  - Kiểm thử chức năng đặt phòng, phân quyền tài khoản và tính hóa đơn theo mô hình MVC (Java).
-  - Thực hiện Database Testing: viết truy vấn SQL trên SQL Server để kiểm tra tính toàn vẹn dữ liệu, ràng buộc khóa ngoại và tính nhất quán khi thao tác CRUD.
+### 6. AgroFlow - Hệ thống IoT Quản lý Tưới tự động
+- **Vai trò:** Team Member (Phân tích hệ thống & Phát triển đề xuất)
+- **Công nghệ:** C# .NET Backend, IoT (ESP32, Cảm biến), Mobile UI.
+- **Công việc thực hiện:**
+  - Tham gia thiết kế luồng xử lý dữ liệu giữa thiết bị cảm biến và máy chủ trung tâm.
+  - Xây dựng đề xuất giải pháp kỹ thuật, phân tích tính khả thi và thẩm định chất lượng hoạt động của hệ thống.
 
 ---
 
@@ -86,6 +90,6 @@ Với nền tảng kỹ thuật lập trình vững chắc kết hợp tư duy p
 
 - **Email:** lehonggam124@gmail.com
 - **LinkedIn:** [linkedin.com/in/lehgam](https://www.linkedin.com/in/lehgam/)
-- **GitHub:** [github.com/lehg26th](https://github.com/lehg26th/)
+- **GitHub:** [https://github.com/lehg26th/](https://github.com/lehg26th/)
 
 Cảm ơn bạn đã ghé thăm trang cá nhân của mình!
