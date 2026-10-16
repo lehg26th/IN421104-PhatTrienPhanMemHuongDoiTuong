@@ -91,5 +91,10 @@ Với nền tảng trực tiếp tham gia lập trình và xây dựng các hệ
 - **Email:** lehonggam124@gmail.com
 - **LinkedIn:** [linkedin.com/in/lehgam](https://www.linkedin.com/in/lehgam/)
 - **GitHub:** [https://github.com/lehg26th/](https://github.com/lehg26th/)
+---
 
+## 🎯 Bài tập Chương 1: Sơ đồ lớp EduHub
+Dưới đây là kết quả mô hình Domain bài toán EduHub:
+
+![Sơ đồ lớp EduHub](ClassDiagram.png)
 Cảm ơn bạn đã ghé thăm trang cá nhân của mình!
