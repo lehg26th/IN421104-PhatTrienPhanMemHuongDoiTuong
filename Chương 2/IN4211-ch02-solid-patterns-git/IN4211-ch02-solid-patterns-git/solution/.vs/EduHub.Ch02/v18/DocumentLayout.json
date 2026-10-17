@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhatTrienOOP\\IN4211-ch02-solid-patterns-git\\IN4211-ch02-solid-patterns-git\\solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C067D01E-630F-46CB-8FEC-9BE957F35D88}|EduHub.Ch02\\EduHub.Ch02.csproj|d:\\phattrienoop\\in4211-ch02-solid-patterns-git\\in4211-ch02-solid-patterns-git\\solution\\eduhub.ch02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C067D01E-630F-46CB-8FEC-9BE957F35D88}|EduHub.Ch02\\EduHub.Ch02.csproj|solutionrelative:eduhub.ch02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 212,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PhatTrienOOP\\IN4211-ch02-solid-patterns-git\\IN4211-ch02-solid-patterns-git\\solution\\EduHub.Ch02\\Program.cs",
+              "RelativeDocumentMoniker": "EduHub.Ch02\\Program.cs",
+              "ToolTip": "D:\\PhatTrienOOP\\IN4211-ch02-solid-patterns-git\\IN4211-ch02-solid-patterns-git\\solution\\EduHub.Ch02\\Program.cs",
+              "RelativeToolTip": "EduHub.Ch02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T02:12:32.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
